@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Craig Sirkin</h1>
 <h3 align="center">A network architect focusing on automation, Juniper and F5</h3>
 
-- 🔭 I’m currently working on [Help Me Avoid](coming soon)
+- 🔭 I’m currently working on Help Me Avoid (coming soon)
 
 - 🌱 I’m currently learning **how to build a web app with Flask**
 
-- 👯 I’m looking to collaborate on **translation**
+- 👯 I’m looking to collaborate on **translations**
 
-- 💬 Ask me about **Junos, IP Networking**
+- 💬 Ask me about **Junos, Ansible, Learning Python, IP Networking**
 
 - 📫 How to reach me **csirkin@gmail.com**
 
