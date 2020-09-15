@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Junos, Ansible, Learning Python, IP Networking**
 
-- 📫 How to reach me **csirkin@gmail.com**
+- 📫 Reach me **csirkin@gmail.com**
 
 - ⚡ Fun fact **I wrote an iPhone/Apple Watch app called [Croquet DeadWatch](https://apps.apple.com/us/app/croquet-deadwatch/id1123903977)**. If you play American Rules Croquet and have these devices, check it out.
 
